@@ -8,7 +8,7 @@ loans:
   message: "Welcome to EazyBank loans related QA APIs"
   contactDetails:
     name: "Tom - QA Lead"
-    email: "tom@eazybank.com"
+    email: "{cipher}e7d9a55f2530514e0552ccdde8932e18a2c3ced43b89422acbdac42468f9d1a8381549388317f214c90dedc9c5e1c438"
   onCallSupport:
     - (553) 309-4721
     - (388) 456-8285
