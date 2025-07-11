@@ -8,7 +8,7 @@ loans:
   message: "Welcome to EazyBank loans related prod APIs"
   contactDetails:
     name: "Sally - Product Owner"
-    email: "sally@eazybank.com"
+    email: "{cipher}ba22356a9dbc8814b64977a452d8f766324e24e652ff2f7d2a5214458f7521f5a946d07d0dc7ef4a25325380a9b4a79b"
   onCallSupport:
     - (456) 222-1111
     - (321) 234-5555
