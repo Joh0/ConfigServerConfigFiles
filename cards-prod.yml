@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: 1.0
+cards:
+  message: "Welcome to EazyBank cards related to prod APIs"
+  contactDetails:
+    name: "George - Product Owner"
+    email: "george@eazybank.com"
+  onCallSupport:
+    - (999) 654-1234
+    - (888) 432-1345

@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+build:
+  version: 2.0
+cards:
+  message: "Welcome to EazyBank cards related to QA APIs"
+  contactDetails:
+    name: "Maddy - QA Lead"
+    email: "maddy@eazybank.com"
+  onCallSupport:
+    - (800) 123-1234
+    - (111) 432-1345
