@@ -4,7 +4,7 @@ loans:
   message: "Welcome to EazyBank loans related local APIs"
   contactDetails:
     name: "Jeff - Developer"
-    email: "jeff@eazybank.com"
+    email: "{cipher}29774dccf033b288d1c43cec1e2bbd07ee66057e810094513e8f5658fe9c6556417e0b1f8c449162c778f36fb4f4f4a8"
   onCallSupport:
     - (452) 456-2176
     - (123) 456-2176
