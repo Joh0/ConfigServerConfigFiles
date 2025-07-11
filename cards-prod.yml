@@ -8,7 +8,7 @@ cards:
   message: "Welcome to EazyBank cards related to prod APIs"
   contactDetails:
     name: "George - Product Owner"
-    email: "george@eazybank.com"
+    email: "{cipher}0840f1d24ca68fc004749b691ba379f45406be6bfd05e589a354c8ac6dbb1507e4f519857c5b4e091f43f6a754da71aa"
   onCallSupport:
     - (999) 654-1234
     - (888) 432-1345
