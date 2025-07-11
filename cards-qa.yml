@@ -8,7 +8,7 @@ cards:
   message: "Welcome to EazyBank cards related to QA APIs"
   contactDetails:
     name: "Maddy - QA Lead"
-    email: "maddy@eazybank.com"
+    email: "{cipher}30e9c0c3f07db382c41bcd321adb484f781c82fbc43551f1479c0846f946d239721680fdce5ef660e6eaa058eec40e0e"
   onCallSupport:
     - (800) 123-1234
     - (111) 432-1345
